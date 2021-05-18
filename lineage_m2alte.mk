@@ -45,5 +45,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=m2alte \
     PRODUCT_DEVICE=m2alte \
     TARGET_DEVICE=m2alte \
-    BUILD_FINGERPRINT="samsung/m2a3gxx/m2a3g:4.4.2/KOT49H/C111XXU1ANF1:user/release-keys" \
-    PRIVATE_BUILD_DESC="m2a3gxx-user 4.4.2 KOT49H C111XXU1ANF1 release-keys"
+    BUILD_FINGERPRINT="samsung/m2altexx/m2alte:4.4.2/KOT49H/C115XXU1BNF1:user/release-keys" \
+    PRIVATE_BUILD_DESC="m2altexx-user 4.4.2 KOT49H C115XXU1BNF1 release-keys"
